@@ -25,7 +25,7 @@ const paths = require('./paths.js');
 const phantomize = require('./phantomize.js');
 const url = require('url');
 
-const hostname = 'localhost';
+const hostname = '0.0.0.0';
 const port = 3000;
 
 // ** Preparation, step 1: **
